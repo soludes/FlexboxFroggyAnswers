@@ -15,7 +15,7 @@ This repository includes 24 files with the solutions:
 - `1-24` — All 24 levels with corresponding CSS code answers.
 
 Each level is labeled.
-
+Example:
 ```css
-/* Level 1 */
+/* 1 */
 justify-content: flex-start;
